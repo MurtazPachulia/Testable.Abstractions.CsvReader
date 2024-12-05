@@ -1,0 +1,1 @@
+﻿Testable abstractions for CsvHelper
