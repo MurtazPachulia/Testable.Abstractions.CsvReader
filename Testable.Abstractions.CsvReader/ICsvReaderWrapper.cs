@@ -2,5 +2,5 @@
 
 public interface ICsvReaderWrapper
 {
-    IEnumerable<T> GetRecords<T>(string path);
+    List<T> GetRecords<T>(string path);
 }

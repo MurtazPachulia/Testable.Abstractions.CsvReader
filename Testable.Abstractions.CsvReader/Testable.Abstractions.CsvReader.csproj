@@ -8,7 +8,10 @@
     <Authors>Murtaz Pachulia, IN4MER</Authors>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.1</Version>
+    <Version>1.0.3</Version>
+    <Title>Testable abstractions for CsvReader</Title>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MurtazPachulia/Testable.Abstractions.CsvReader</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
